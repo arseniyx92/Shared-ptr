@@ -1,0 +1,4 @@
+"/Users/arseniyx92/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/arseniyx92/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/arseniyx92/Desktop/MIPT/C++/homework/SharedPtr -B /Users/arseniyx92/Desktop/MIPT/C++/homework/SharedPtr/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/arseniyx92/Desktop/MIPT/C++/homework/SharedPtr/cmake-build-debug
